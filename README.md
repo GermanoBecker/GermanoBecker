@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Felipe Borges 👋</h1>
+<h1 align="center">Hi there! I'm Germano Becker 👋</h1>
 <p align="center">
   <b>IT Technical High School Student @ IFRS – Campus Rolante</b> · Rio Grande do Sul, Brazil 🇧🇷
 </p>
