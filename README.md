@@ -17,7 +17,7 @@
 - 🌱 I'm at the beginning of my programming journey and I'm learning something new every day.
 - 🔬 I'm working on a research project: **Pathological Effects of Sea Air on Carbon Steel Structures**.
 - 🎮 I also develop a game on **Roblox**.
-- 🗣️ Languages: Portuguese (native) · English (intermediate/upper-intermediate).
+- 🗣️ Languages: Portuguese (native) · English (upper-intermediate).
 
 ##
 
